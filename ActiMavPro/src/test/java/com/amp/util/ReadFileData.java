@@ -1,4 +1,4 @@
-package com.pp.util;
+package com.amp.util;
 
 import java.io.File;
 import java.io.FileInputStream;

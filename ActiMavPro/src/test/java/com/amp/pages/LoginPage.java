@@ -1,4 +1,4 @@
-package com.pp.pages;
+package com.amp.pages;
 
 import org.apache.bcel.generic.RETURN;
 import org.apache.log4j.Logger;
@@ -6,8 +6,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-import com.pp.common.NKConstants;
-import com.pp.util.BasePageObject;
+import com.amp.common.NKConstants;
+import com.amp.util.BasePageObject;
 
 public class LoginPage extends BasePageObject
 {
@@ -227,20 +227,20 @@ public class LoginPage extends BasePageObject
 	 * @return TermsAndConditionsPage
 	 * 
 	 */
-	public TermsAndConditionsPage clickOnIamNewHereButton() throws Exception
-	{
-		Log.info("Clicking on I am new here button");
-		try 
-		{
-			uiDriver.findElement(IamNewHerebutton).click();
-			
-			
-		} 
-		catch (Exception e) {
-			throw new Exception("FAILED WHILE CLICKING ON I AM NEW HERE BUTTON" + "\n clickOnIamNewHereButton" +e.getLocalizedMessage());
-		}
-		return new TermsAndConditionsPage(uiDriver);
-	}
+//	public TermsAndConditionsPage clickOnIamNewHereButton() throws Exception
+//	{
+//		Log.info("Clicking on I am new here button");
+//		try 
+//		{
+//			uiDriver.findElement(IamNewHerebutton).click();
+//			
+//			
+//		} 
+//		catch (Exception e) {
+//			throw new Exception("FAILED WHILE CLICKING ON I AM NEW HERE BUTTON" + "\n clickOnIamNewHereButton" +e.getLocalizedMessage());
+//		}
+//		return new TermsAndConditionsPage(uiDriver);
+//	}
 	/******************************************************************************************************************************************************************************************/
 	/**
 	 * @author manjunathr
@@ -369,17 +369,17 @@ public class LoginPage extends BasePageObject
 	 * @author manjunathr
 	 * @return 
 	 */
-	public SecurityQuestion clickOnLoginButton() throws Exception
-	{
-		Log.info("Clicking on Login button");
-		try {
-			uiDriver.findElement(Loginbutton).click();
-		} catch (Exception e) {
-			throw new Exception("FAILED WHILE CLICKING ON  THE LOGIN BUTTON  " + "\n clickOnLoginButton" +e.getLocalizedMessage());
-		}
-		return new SecurityQuestion(uiDriver);
-	}
-	
+//	public SecurityQuestion clickOnLoginButton() throws Exception
+//	{
+//		Log.info("Clicking on Login button");
+//		try {
+//			uiDriver.findElement(Loginbutton).click();
+//		} catch (Exception e) {
+//			throw new Exception("FAILED WHILE CLICKING ON  THE LOGIN BUTTON  " + "\n clickOnLoginButton" +e.getLocalizedMessage());
+//		}
+//		return new SecurityQuestion(uiDriver);
+//	}
+//	
 	/******************************************************************************************************************************************************************************************/
 	/**
 	 * @author manjunathr
@@ -439,17 +439,17 @@ public class LoginPage extends BasePageObject
 	 * @author manjunathr
 	 * @return UsernamePasswordFindPage
 	 */
-	public UsernamePasswordFindPage clickOnNeedHelpwithUsernamePwdLink() throws Exception
-	{
-		Log.info("Clicking on Need help with your username and Password ? Link" );
-		try {
-			uiDriver.findElement(needHelpyourusernameAndPasswordLink).click();
-			
-		} catch (Exception e) {
-			throw new Exception("FAILED TO CLICK ON  NEED HELP WITH YOUR USERNAME AND PASSWORD LINK " + "\n clickOnNeedHelpwithUsernamePwdLink" +e.getLocalizedMessage());
-		}
-		return new UsernamePasswordFindPage(uiDriver);
-	}
+//	public UsernamePasswordFindPage clickOnNeedHelpwithUsernamePwdLink() throws Exception
+//	{
+//		Log.info("Clicking on Need help with your username and Password ? Link" );
+//		try {
+//			uiDriver.findElement(needHelpyourusernameAndPasswordLink).click();
+//			
+//		} catch (Exception e) {
+//			throw new Exception("FAILED TO CLICK ON  NEED HELP WITH YOUR USERNAME AND PASSWORD LINK " + "\n clickOnNeedHelpwithUsernamePwdLink" +e.getLocalizedMessage());
+//		}
+//		return new UsernamePasswordFindPage(uiDriver);
+//	}
 	
 	
 	/******************************************************************************************************************************************************************************************/
@@ -553,17 +553,17 @@ public void verifyWarningTextContent() throws Exception
 	 * @author manjunathr
 	 * @return UsernamePasswordFindPage
 	 */
-	public UsernamePasswordFindPage clickOnWaringClickHereRestPasswordUsernameLink() throws Exception
-	{
-		Log.info("Clicking on reset Password and Username link");
-		
-		try {
-			uiDriver.findElement(warningResetUsernamePassword).click();
-		} catch (Exception e) {
-			throw new Exception("FAILED TO CLICK ON  RESET USERNAME AND PASSWORD LIINK  BUTTON " + "\n clickOnWaringClickHereRestPasswordUsernameLink" +e.getLocalizedMessage());
-		}
-		return new UsernamePasswordFindPage(uiDriver);
-	}
+//	public UsernamePasswordFindPage clickOnWaringClickHereRestPasswordUsernameLink() throws Exception
+//	{
+//		Log.info("Clicking on reset Password and Username link");
+//		
+//		try {
+//			uiDriver.findElement(warningResetUsernamePassword).click();
+//		} catch (Exception e) {
+//			throw new Exception("FAILED TO CLICK ON  RESET USERNAME AND PASSWORD LIINK  BUTTON " + "\n clickOnWaringClickHereRestPasswordUsernameLink" +e.getLocalizedMessage());
+//		}
+//		return new UsernamePasswordFindPage(uiDriver);
+//	}
 	
 	/******************************************************************************************************************************************************************************************/
 	/**

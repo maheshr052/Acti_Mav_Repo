@@ -53,3 +53,147 @@
 2015-11-26 14:25:25,884 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
 2015-11-26 14:25:25,893 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-11-26 14:25:25,899 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:49:44,565 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:49:44,577 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:49:44,579 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:49:44,580 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:49:46,264 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:49:46,265 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:49:46,267 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:49:46,268 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:50:45,045 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:50:45,046 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:50:45,048 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:50:45,048 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:50:46,123 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:50:46,123 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:50:46,126 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:50:46,127 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:51:14,703 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:51:14,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:51:14,706 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:51:14,707 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:51:53,348 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:51:53,349 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:51:53,350 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:51:53,353 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:53:07,712 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:07,713 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:53:07,714 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:07,715 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:53:11,973 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:11,975 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:53:11,977 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:11,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:53:38,307 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:38,308 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:53:38,309 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:38,310 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:53:59,649 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:59,650 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:53:59,651 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:53:59,653 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:10,319 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:10,320 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:10,321 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:10,322 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:20,809 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:20,810 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:20,812 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:20,813 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:30,875 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:30,876 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:30,877 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:30,878 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:38,270 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:38,271 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:38,276 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:38,277 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:43,827 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:43,828 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:43,829 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:43,830 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:54:53,724 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:53,725 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:54:53,728 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:54:53,733 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:55:09,563 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:09,564 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:55:09,565 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:09,566 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:55:27,343 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:27,345 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:55:27,352 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:27,353 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:55:42,998 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:42,999 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:55:43,000 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:55:43,001 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:56:06,116 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:06,117 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:56:06,118 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:06,119 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:56:21,023 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:21,023 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:56:21,025 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:21,025 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:56:28,124 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:28,125 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:56:28,126 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:28,127 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:56:31,581 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:31,582 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:56:31,583 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:31,584 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 14:56:45,050 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:45,051 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 14:56:45,052 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 14:56:45,053 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:12:04,598 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:04,724 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:12:04,726 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:04,727 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:12:09,951 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:09,953 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:12:09,956 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:09,957 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:12:17,429 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:17,430 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:12:17,431 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:17,431 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:12:40,691 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:40,694 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:12:40,695 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:12:40,696 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:13:10,675 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:10,676 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:13:10,677 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:10,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:13:19,152 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:19,153 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:13:19,154 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:19,155 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:13:25,534 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:25,535 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:13:25,536 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:25,538 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:13:34,276 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:34,277 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:13:34,281 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:34,281 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:13:58,261 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:58,262 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:13:58,263 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:13:58,264 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:16:11,476 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:11,477 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:16:11,479 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:11,480 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:16:21,254 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:21,255 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:16:21,256 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:21,257 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources
+2015-11-26 15:16:41,196 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:41,197 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\main\resources
+2015-11-26 15:16:41,199 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-26 15:16:41,201 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Acti_Mav_Work\Acti_Mav_Repo\ActiMavPro\src\test\resources

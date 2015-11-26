@@ -1,4 +1,4 @@
-package com.pp.util;
+package com.amp.util;
 
 import java.awt.Toolkit;
 import java.util.Iterator;
@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import com.pp.common.NKConstants;
+import com.amp.common.NKConstants;
 
 public class BasePageObject {
 

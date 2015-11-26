@@ -1,4 +1,4 @@
-package com.pp.util;
+package com.amp.util;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
@@ -7,7 +7,7 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import com.pp.common.NKConstants;
+import com.amp.common.NKConstants;
 
 public class ExcelutilObject {
 

@@ -1,11 +1,11 @@
-package com.pp.pages;
+package com.amp.pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import com.pp.common.NKConstants;
-import com.pp.util.BasePageObject;
+import com.amp.common.NKConstants;
+import com.amp.util.BasePageObject;
 
 
 import org.testng.Assert;

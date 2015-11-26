@@ -1,4 +1,4 @@
-package com.pp.common;
+package com.amp.common;
 
 import java.util.Set;
 
