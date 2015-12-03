@@ -24,7 +24,8 @@ import org.testng.Reporter;
 
 import com.amp.common.NKConstants;
 
-public class BasePageObject {
+public class BasePageObject
+{
 
 	//protected static WebDriver uiDriver;
 	public WebDriver uiDriver;
@@ -100,15 +101,18 @@ public class BasePageObject {
 		// Reporter.log("Looking for the element...: " + textValue);
 		System.out.println("Looking for the element...: " + textValue);
 		WebElement webElement = uiDriver.findElement(By.tagName("html"));
-		if (webElement.getText().contains(textValue)) {
+		if (webElement.getText().contains(textValue)) 
+		{
 			return true;
-		} else {
+		} else 
+		{
 			System.out.println("Element not found : " + textValue);
 			return false;
 		}
 	}
 	
-	public void selectWindow(int window) {
+	public void selectWindow(int window) 
+	{
 		Set<String> winNames = uiDriver.getWindowHandles();
 		uiDriver.switchTo().window((String) winNames.toArray()[window - 1]);
 	}
@@ -148,10 +152,12 @@ public class BasePageObject {
 	 * @param theElement
 	 * @return
 	 */
-	public boolean isElementChecked(By theElement) {
+	public boolean isElementChecked(By theElement)
+	{
 		WebElement element = uiDriver.findElement(theElement);
 		boolean retValue = false;
-		if (element.isSelected()) {
+		if (element.isSelected()) 
+		{
 			retValue = true;
 		}
 		return retValue;
@@ -324,7 +330,8 @@ public class BasePageObject {
 		return size > 1;
 	}
 
-	public  void switchToParentWindow(String windowName) throws Exception {
+	public  void switchToParentWindow(String windowName) throws Exception 
+	{
 		windowName = windowName.toString();
 		uiDriver.switchTo().window(windowName);
 		waitImplicit(3000);
@@ -373,7 +380,31 @@ public  String getPageTitle()
 	 * @throws Exception 
 	 */
 
-	public  void compareTextValue(String Actual_Text, String Expected_Text, String Message) {
+	public  void compareTextValue(String Actual_Text, String Expected_Text, String Message) 
+	{
 		Assert.assertEquals(Actual_Text, Expected_Text, Message);
 	}
+	
+	/*****************************************************************************************************************************************/
+	/**
+	 * @author MRamadurga
+	 * This verifies the page Title of an application
+	 * @throws Exception
+	 */
+	public void verifyPageTitle(String ExpTitle) throws Exception
+	{
+		try
+		{
+			String actTitle=getPageTitle();
+			Assert.assertEquals(actTitle, ExpTitle,"Titles Doesnot Match...");
+			
+		}
+		catch(Exception e)
+		{
+			throw new Exception("Error in verifying the page titles..."+e.getLocalizedMessage());
+		}
+		
+		
+	}
+	 
 }

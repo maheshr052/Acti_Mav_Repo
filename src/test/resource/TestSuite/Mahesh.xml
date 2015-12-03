@@ -4,7 +4,7 @@
 <parameter name="browserType" value=""/> -->
   <test name="sample test">
     <classes>
-      <class name="com.pp.tests.EnrollPageTest"/>
+      <class name="com.amp.tests.ActiLoginTest"/>
     </classes>
   </test>
 </suite>
