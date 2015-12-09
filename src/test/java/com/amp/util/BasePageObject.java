@@ -122,7 +122,11 @@ public class BasePageObject
 	}
 
 	
-	public void selectDropDown(By theSelectElement, String valToSelect) {
+	public void selectDropDown(By theSelectElement, String valToSelect) throws Exception
+	
+	{
+		try
+		{
 		WebElement element = uiDriver.findElement(theSelectElement);
 		Select select = new Select(element);
 		// Get a list of the options
@@ -130,12 +134,17 @@ public class BasePageObject
 		// For each option in the list, verify if it's the one you want and then
 		// click it
 		for (WebElement we : options) {
-			if (we.getText().equals(valToSelect)) {
+			if (we.getText().equals(valToSelect)) 
+			{
 				we.click();
 				break;
 			}
 		}
-
+		}
+		catch(Exception e)
+		{
+			throw new Exception("value does not exists in the select drop down.."+e.getLocalizedMessage());
+		}
 	}
 
 	public String selectedItem(By theSelectElement) {
@@ -303,12 +312,7 @@ public class BasePageObject
 		} catch (InterruptedException e) {
 		}
 	}
-	public  void logOut() throws InterruptedException {
-		WebElement logout = uiDriver.findElement(By.xpath(""));
-			logout.click();
-			waitImplicit(10);
-			Thread.sleep(3000);
-	}
+
 	
 	public void switchToNewWindow() throws Exception
 	{
@@ -404,7 +408,77 @@ public  String getPageTitle()
 			throw new Exception("Error in verifying the page titles..."+e.getLocalizedMessage());
 		}
 		
-		
 	}
-	 
+	
+	/****************************************************************************************************************************************/
+	/**
+	 * @author MRamadurga
+	 * This verifies the page Title of an application
+	 * @throws Exception
+	 */
+	public void Logout() throws Exception
+	{
+		try
+		{
+			uiDriver.findElement(By.className("logoutImg")).click();
+		}
+		catch(Exception e)
+		{
+			throw new Exception("Logout link not found..."+e.getLocalizedMessage());
+		}
+	}
+	
+	
+	/*******************************************************************************************************************************************/
+	/**
+	 * @author MRamadurga
+	 * this method clicks on the specifed keyboard button
+	 * @throws Exception
+	 */
+	
+	public void keyBoardAction(Keys val) throws Exception
+	{
+		try
+		{
+		Actions act=new Actions(uiDriver);
+		act.sendKeys(val).perform();
+		}
+		catch(Exception e)
+		{
+			throw new Exception("Unable to perform the specified keyboard action "+e.getLocalizedMessage());
+		}
+	}
+	
+	
+	/*******************************************************************************************************************************************/
+	/**
+	 * @author MRamadurga
+	 * this method clicks on the specifed keyboard button
+	 * @throws Exception
+	 */
+	
+	 public void alertCancel() throws Exception
+	 {
+		 Boolean alterPresent=false;
+		 try
+		 {
+		 Alert alt=uiDriver.switchTo().alert();
+//		 WebDriverWait wait=new WebDriverWait(uiDriver, 60);
+//		 if (wait.until(ExpectedConditions.alertIsPresent())==null)
+//		 {
+//			 alterPresent=true;
+//		 }
+//		 Assert.assertTrue(alterPresent,"Alert popup is not present");
+		 alt.dismiss();
+		 Assert.assertEquals(1, 1);
+		 }
+		 catch(Exception e)
+		 {
+			 Assert.assertTrue(alterPresent, "Alert popup is not displayed...");
+			 throw new Exception("Alert window is not displayed.."+e.getLocalizedMessage());
+		 }
+	
+	 }
+	
+	
 }

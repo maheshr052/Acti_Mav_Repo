@@ -18,7 +18,8 @@ public interface NKConstants {
 	String exp_ActiLoginHome="actiTIME - Open Tasks";
 	String actiUsn="admin";
 	String actiPwd="manager";
-	
+	String custCreateMandatoryMsg="All fields marked with * must be filled in. Please specify: Customer Name.";
+	String projSuccessMessage="Project has been successfully registered.";
 	/********************************************************************************************************/
     
     

@@ -30,7 +30,7 @@ public class CustomerAddTest extends BaseTestObject
 	String expCustSuccessMsg="Customer has been successfully registered.";
 	
 	
-	@Test
+	@Test(groups={"custCreateAndListProj"})
 	public void customerAddAndListProj_Cust() throws Exception
 	{
 		objLogin=new Acti_LoginPage(uiDriver);
@@ -38,12 +38,13 @@ public class CustomerAddTest extends BaseTestObject
 		objCustProj=objLoginHome.clickOnProjectAndCustomer();
 		objCustAdd=objCustProj.clickAddCustomer();
 		objCustProj=objCustAdd.createCustAndListProj();
-		objCustProj.verifyCustSuccessMsg(expCustSuccessMsg);
+		objCustProj.verifySuccessMsg(expCustSuccessMsg);
+		objCustProj.Logout();
 		
 	}
 
 	
-	@Test
+	@Test(enabled=false)
 	public void customerAddAndCreateNewProj() throws Exception
 	{
 		objLogin=new Acti_LoginPage(uiDriver);
@@ -51,12 +52,12 @@ public class CustomerAddTest extends BaseTestObject
 		objCustProj=objLoginHome.clickOnProjectAndCustomer();
 		objCustAdd=objCustProj.clickAddCustomer();
 		objProjAdd=objCustAdd.createCustAndCreateProject();
-		objProjAdd.verifyCustSuccessMsg(expCustSuccessMsg);
+		objProjAdd.verifySuccessMsg(expCustSuccessMsg);
+		objProjAdd.Logout();
 	}
 	
 	
-	@Test
-	
+	@Test(enabled=false)
 	public void customerAddAndCreateMoreCust() throws Exception
 	{
 		objLogin=new Acti_LoginPage(uiDriver);
@@ -64,8 +65,35 @@ public class CustomerAddTest extends BaseTestObject
 		objCustProj=objLoginHome.clickOnProjectAndCustomer();
 		objCustAdd=objCustProj.clickAddCustomer();
 		objCustAdd=objCustAdd.createCustAndAddMoreCust();
-		objCustAdd.verifyCustSuccessMsg(expCustSuccessMsg);
-		
+		objCustAdd.verifySuccessMsg(expCustSuccessMsg);
+		objCustAdd.Logout();
 		
 	}
+	
+	
+	@Test(enabled=false)
+	public void CustomerCreateRequiredError() throws Exception
+	{
+		objLogin=new Acti_LoginPage(uiDriver);
+		objLoginHome=objLogin.login(NKConstants.actiUsn, NKConstants.actiPwd);
+		objCustProj=objLoginHome.clickOnProjectAndCustomer();
+		objCustAdd=objCustProj.clickAddCustomer();
+		objCustAdd.createCustomerReqError();
+		
+	}
+	
+	@Test(enabled=false)
+	public void CustomercreateCancel() throws Exception
+	{
+		objLogin=new Acti_LoginPage(uiDriver);
+		objLoginHome=objLogin.login(NKConstants.actiUsn, NKConstants.actiPwd);
+		objCustProj=objLoginHome.clickOnProjectAndCustomer();
+		objCustAdd=objCustProj.clickAddCustomer();
+		objCustAdd.createCustomerCancelButton();
+		objCustAdd.alertCancel();
+		objCustAdd.Logout();
+	}
+	
+	
+	
 }

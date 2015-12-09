@@ -17,7 +17,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
@@ -83,7 +85,7 @@ public class BaseTestObject {
 	
 	
 	
-	@BeforeClass(alwaysRun = true)
+	@BeforeMethod(alwaysRun = true)
     public void setup() throws Exception
 	{
         if(browser.equalsIgnoreCase("FF"))
@@ -110,8 +112,10 @@ public class BaseTestObject {
         uiDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
         
 }
-	@AfterClass
-	public void tearDown(){
+	@AfterMethod
+	public void tearDown() throws InterruptedException
+	{
+		Thread.sleep(5000);
 		uiDriver.quit();
 	}
 }
